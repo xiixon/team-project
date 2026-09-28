@@ -29,6 +29,7 @@ Any updates to the project and the progress of their work. If they think they wo
 should communicate ahead.
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+Listen when someone else is talking, include everyone in discussions.
 
 ---
 
@@ -38,17 +39,18 @@ should communicate ahead.
     - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
 Help each other if other team members meet any problems.
 
+Fair work distribution
 ---
 
 ## Decision Making
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-By majority
+Majority vote
 ---
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-
+Talk it out 
 ---
 
 ## Accountability
@@ -66,3 +68,5 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 
 Rolly Gao
+Onyx Chavanond
+Theint Thin Zar Thu
